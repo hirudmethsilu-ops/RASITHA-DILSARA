@@ -1,0 +1,6 @@
+{
+  "name": "Budget Sync",
+  "description": "A personal budgeting application that automatically links and synchronizes transactions and balances with bank accounts using Jetpack Compose and local Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
